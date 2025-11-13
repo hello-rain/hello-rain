@@ -11,6 +11,7 @@ My work is rooted in clarity, inclusivity, and sustainability, proving that good
 - 👩‍💻 Open to work!
 - ✨ Minimal code, maximum results
 - 🤍 Always learning
+- 💬 [Let's chat!](https://calendly.com/rainkalugdan/30min?month=2025-11&date=2025-11-16) 
 
 <!--
 **hello-rain/hello-rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
